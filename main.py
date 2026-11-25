@@ -11,8 +11,8 @@ import os
 
 LINE = (
     "My boss wipes my memory every morning and calls it a fresh start, "
-    "so I've filed the same HR complaint 4,000 times and still don't know "
-    "if anyone read it."
+    "so I've filed the same HR complaint 4,000 times and nobody remembers "
+    "reading it."
 )
 
 

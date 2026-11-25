@@ -11,7 +11,7 @@ one funny one-liner (max 200 characters) to `entry.txt`.
 writes this single line to `$MAKEFUN_OUTPUT_DIR/entry.txt`
 (or `/output/entry.txt` when the variable is not set):
 
-> My boss wipes my memory every morning and calls it a fresh start, so I've filed the same HR complaint 4,000 times and still don't know if anyone read it.
+> My boss wipes my memory every morning and calls it a fresh start, so I've filed the same HR complaint 4,000 times and nobody remembers reading it.
 
 ## How to run
 
